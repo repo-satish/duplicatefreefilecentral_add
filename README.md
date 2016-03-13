@@ -9,9 +9,10 @@ When merging these files it becomes extremely tedious, especially because they g
 
 Also, many of those files/complete-in-itself-folders belong to more than one category, so tagging was required anyway.
 ### Solutions
+A DIRECTORY MERGER  
 
-A DIRECTORY MERGER
 KEEP ONLY ONE COPY OF EACH FILE
+
 a version control is needed, atleast aids in deciding which file to keep which to delete
 
 ## FEATUREs
@@ -20,10 +21,8 @@ a version control is needed, atleast aids in deciding which file to keep which t
  - Versions of a file are decided by
 	- common-ness in file name
 	- by user
- - When importing from dirty-nested-directory tree, this app intelligently assigns ParDir name as tags to the file when moving to FileCentral-- weather or not to apply these tags depends on user
+ - When importing from dirty-nested-directory tree, this app intelligently assigns ParDir name as tags to the file when moving to 
+ - FileCentral-- weather or not to apply these tags depends on user
 
 ## DEPENDENCIES
 webpage to .htmz convertor
-
-## DEFINATIONS
-FileCentral:	
